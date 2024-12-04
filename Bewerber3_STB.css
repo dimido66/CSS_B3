@@ -1,24 +1,24 @@
-/* Grundlegende Stile, die f\'fcr alle Ansichten gelten */\
-html, body \{\
-    height: 100%;\
-    margin: 0;\
-    display: flex;\
-    justify-content: center;\
-    align-items: center;\
-    font-family: Verdana, sans-serif !important;\
-\}\
-\
-.BW-MainPanel \{\
-	width: 100%;\
-	margin: 0 auto;\
-	max-width: 1260px !important;\
-\}\
-.BW-WebPositionPage \{\
-	width: 100%;\
-	margin-top: 0px;\
-	margin-bottom: 10px;\
-	background: #fff;\
-	max-width: 780px;\
-	margin: 0 auto;\
-	padding: 0 6px !important;\
-\}}
+/* Grundlegende Stile, die für alle Ansichten gelten */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, sans-serif !important;
+}
+
+.BW-MainPanel {
+	width: 100%;
+	margin: 0 auto;
+	max-width: 1260px !important;
+}
+.BW-WebPositionPage {
+	width: 100%;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	background: #fff;
+	max-width: 780px;
+	margin: 0 auto;
+	padding: 0 6px !important;
+}
